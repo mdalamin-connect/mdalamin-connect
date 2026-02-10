@@ -108,7 +108,7 @@ Designed to support real operational demand.
 
 ---
 
-# 📈 Current Engineering Focus
+## 📈 Current Engineering Focus
 
 Continuously advancing expertise in:
 
@@ -121,7 +121,7 @@ Growing from backend developer → **systems-level engineer.**
 
 ---
 
-# 🌍 Open to Global Opportunities
+## 🌍 Open to Global Opportunities
 
 I am open to working with high-impact engineering teams:
 
@@ -133,7 +133,7 @@ Particularly interested in backend roles involving **large-scale systems and cha
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 💼 LinkedIn  
 👉 https://www.linkedin.com/in/mdalamin-connect/
