@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MD%20Al-Amin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20|%20Scalable%20Systems%20Builder&descAlignY=55&descSize=18"/>
 </p>
 
-# 👋 Hi, I'm MD Al-Amin  
+# 👋 Hi, I'm MUHAMMAD AL-AMIN 
 ### Backend Software Engineer | API Architecture | ERP Systems | SQL Performance
 
 🚀 I design and build **production-grade backend systems** that are scalable, secure, and engineered for real-world usage.
