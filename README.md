@@ -16,7 +16,9 @@ Engineering production-grade backend systems that are scalable, reliable, and bu
 
 # 👋 About Me
 
-I am a **Backend Software Engineer with 5+ years of professional experience** building enterprise platforms, REST APIs, and high-performance database systems.
+I’m a backend-focused full-stack developer with 5+ years of professional experience, including 3+ years in web application development, building scalable and reliable systems using PHP, Laravel, MySQL, and RESTful APIs.
+
+I specialize in backend architecture, API development, and database-driven applications, with hands-on experience in ERP, CRM, and e-commerce platforms. I enjoy turning complex business requirements into clean, maintainable, and efficient software.
 
 My work focuses on:
 
