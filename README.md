@@ -1,147 +1,157 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=MUHAMMAD%20AL-AMIN&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud&descSize=21&descAlignY=63&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
 </p>
 
-<br>
-
-
-<h2 align="center">Backend / Full-Stack Developer | API Architecture | ERP Systems | SQL Performance</h2>
+<h2 align="center">Backend / Full-Stack Engineer | ERP Systems | API Architecture | SQL Performance</h2>
 
 <p align="center">
-Engineering production-grade backend systems that are scalable, reliable, and built for real-world impact.
+Engineering production-grade backend systems that scale, perform, and survive real-world traffic.
 </p>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I’m a backend-focused full-stack developer with 5+ years of professional experience, including 3+ years in web application development, building scalable and reliable systems using PHP, Laravel, MySQL, and RESTful APIs.
+I’m a **backend-focused full-stack engineer** with **5+ years of professional experience**, specializing in building **scalable, reliable, database-driven systems** using **PHP, Laravel, MySQL, and REST APIs**.
 
-I specialize in backend architecture, API development, and database-driven applications, with hands-on experience in ERP, CRM, and e-commerce platforms. I enjoy turning complex business requirements into clean, maintainable, and efficient software.
+I’ve worked extensively on **ERP, CRM, and e-commerce platforms**, translating complex business requirements into **clean architecture and maintainable systems**.
 
-My work focuses on:
-
-✅ Scalable backend architecture  
-✅ Enterprise ERP development  
-✅ Database optimization  
-✅ Secure authentication systems  
-✅ Production-ready deployments  
-
-I approach software with a **systems-thinking mindset** — designing technology that performs under pressure and scales with business growth.
+I approach engineering with a **systems-thinking mindset** — software should be fast, secure, and built to last.
 
 ---
 
-# 🧠 Engineering Philosophy
+## 🧠 Engineering Philosophy
 
-> **"Good code works. Great systems scale."**
+> **“Good code works. Great systems scale.”**
 
-I prioritize:
+I value:
 
 - Performance over shortcuts  
-- Clean architecture over quick fixes  
-- Reliability over complexity  
+- Clean architecture over hacks  
+- Reliability over cleverness  
 - Long-term maintainability  
-
-Because real engineering is about building software that lasts.
 
 ---
 
-# ⚡ Core Tech Stack
+## ⚡ Core Tech Stack
 
-## 🚀 Backend
-- PHP  
-- Laravel  
-- RESTful API Design  
-- MVC Architecture  
-- Authentication & Authorization  
+### 🚀 Backend & APIs
+<p>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=laravel" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
+</p>
 
-## 🗄 Database
-- MySQL  
-- Query Optimization  
-- Indexing Strategies  
-- Transaction Management  
+### 🗄 Database & Performance
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
 
-## ☁️ Cloud & DevOps
-- AWS  
-- Azure  
-- Git  
-- Docker  
+- Query optimization  
+- Indexing strategies  
+- Transaction handling  
 
-## 🎯 Supporting Skills
-- Vue.js  
-- React  
+### ☁️ Cloud & DevOps
+<p>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
+
+### 🎯 Supporting Frontend
+<p>
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vue" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</p>
 
 *(Frontend used strategically to support backend systems.)*
 
 ---
 
-# 🏗️ Featured Engineering Experience
+## 🏗️ Engineering Experience Highlights
 
 ### 🔹 Enterprise ERP Platform
-Architected a modular ERP system supporting HR, inventory, asset management, and project workflows.
+- Modular backend architecture  
+- Role-based access control  
+- Optimized reporting queries  
+- High-reliability production deployments  
 
-**Engineering Highlights:**
-- Designed scalable backend modules  
-- Optimized SQL queries for faster reporting  
-- Built secure role-based access  
-- Improved system reliability  
+### 🔹 Production-Grade REST APIs
+- Secure authentication flows  
+- Clean versioned endpoints  
+- Cross-platform integration  
 
----
-
-### 🔹 Production REST APIs
-Developed cross-platform APIs enabling seamless communication between business systems.
-
-Focused on:
-
-- Speed  
-- Security  
-- Maintainability  
+### 🔹 E-Commerce Backend Systems
+- Orders & inventory  
+- Accounting workflows  
+- Stock consistency & performance  
 
 ---
 
-### 🔹 E-Commerce Backend
-Engineered business-critical modules including:
+## 📊 GitHub Performance
 
-✔ Orders  
-✔ Stock management  
-✔ Accounting workflows  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdalamin-connect&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-Designed to support real operational demand.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdalamin-connect&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-# 📈 Current Engineering Focus
-
-Continuously advancing expertise in:
-
-- System Design  
-- Distributed Systems fundamentals  
-- Scalable Infrastructure  
-- Performance Engineering  
-
-Growing from backend developer → **systems-level engineer.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdalamin-connect&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-# 🌍 Open to Global Opportunities
+## 📈 Current Focus
 
-I am open to working with high-impact engineering teams:
+- System design & scalability  
+- Distributed systems fundamentals  
+- Backend performance engineering  
+- Cloud-native architecture  
+
+Growing from **backend developer → systems-level engineer**.
+
+---
+
+## 🌍 Open to Global Opportunities
 
 ✅ Remote  
 ✅ Relocation  
-✅ International companies  
+✅ International teams  
 
-Particularly interested in backend roles involving **large-scale systems and challenging architecture problems.**
+Especially interested in **backend roles involving large-scale systems and complex architecture challenges**.
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 👉 https://www.linkedin.com/in/mdalamin-connect/
 
-📧 Email  
+📧 **Email**  
 👉 mdalamin.connect@gmail.com
 
 ---
