@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=MUHAMMAD%20AL-AMIN&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend /%20Full-Stack%20Developer%20%7C%20Scalable%20Systems%20Builder&descAlignY=60&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=MUHAMMAD%20AL-AMIN&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend/%20Full-Stack%20Developer%20%7C%20Scalable%20Systems%20Builder&descAlignY=60&descSize=18"/>
 </p>
 
 <h2 align="center">Backend / Full-Stack Developer | API Architecture | ERP Systems | SQL Performance</h2>
