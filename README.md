@@ -1,17 +1,13 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=MUHAMMAD%20AL-AMIN&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20Cloud&descSize=21&descAlignY=63&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=MUHAMMAD%20AL-AMIN&fontSize=58&fontAlignY=36&fontColor=ffffff&desc=Backend%20Software%20Engineer%20|%20Systems%20Architecture%20|%20Cloud%20Infrastructure&descSize=24&descAlignY=58&color=0:020024,50:090979,100:00d4ff&animation=fadeIn"/>
 </p>
 
-<br>
+<h3 align="center">
+Building backend systems that scale — engineered for performance, reliability, and real-world demand.
+</h3>
 
 
-<h2 align="center">Backend / Full-Stack Developer | API Architecture | ERP Systems | SQL Performance</h2>
 
-<p align="center">
-Engineering production-grade backend systems that are scalable, reliable, and built for real-world impact.
-</p>
 
 ---
 
