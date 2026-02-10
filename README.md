@@ -1,125 +1,146 @@
-<!-- Elite Animated Header -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MD%20Al-Amin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Software%20Engineer%20|%20Scalable%20Systems%20Builder&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=MD%20Al-Amin&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Software%20Engineer%20%7C%20Scalable%20Systems%20Builder&descAlignY=60&descSize=18"/>
 </p>
 
-# 👋 Hi, I'm MUHAMMAD AL-AMIN 
-### Backend Software Engineer | API Architecture | ERP Systems | SQL Performance
+<h2 align="center">Backend Software Engineer | API Architecture | ERP Systems | SQL Performance</h2>
 
-🚀 I design and build **production-grade backend systems** that are scalable, secure, and engineered for real-world usage.
-
-With **5+ years of professional experience**, I specialize in developing enterprise platforms, optimizing databases, and delivering high-performance APIs.
-
----
-
-# 🧠 Engineering Identity
-
-✔ Backend-first mindset  
-✔ Systems thinking over scripting  
-✔ Performance-driven development  
-✔ Clean, maintainable architecture  
-✔ Business-aware engineering  
-
-I focus on building software that **lasts**, **scales**, and **creates impact**.
+<p align="center">
+Engineering production-grade backend systems that are scalable, reliable, and built for real-world impact.
+</p>
 
 ---
 
-# ⚡ Tech Stack
+# 👋 About Me
 
-### 🚀 Backend
-- PHP, Laravel  
+I am a **Backend Software Engineer with 5+ years of professional experience** building enterprise platforms, REST APIs, and high-performance database systems.
+
+My work focuses on:
+
+✅ Scalable backend architecture  
+✅ Enterprise ERP development  
+✅ Database optimization  
+✅ Secure authentication systems  
+✅ Production-ready deployments  
+
+I approach software with a **systems-thinking mindset** — designing technology that performs under pressure and scales with business growth.
+
+---
+
+# 🧠 Engineering Philosophy
+
+> **"Good code works. Great systems scale."**
+
+I prioritize:
+
+- Performance over shortcuts  
+- Clean architecture over quick fixes  
+- Reliability over complexity  
+- Long-term maintainability  
+
+Because real engineering is about building software that lasts.
+
+---
+
+# ⚡ Core Tech Stack
+
+## 🚀 Backend
+- PHP  
+- Laravel  
 - RESTful API Design  
-- Authentication & Authorization  
 - MVC Architecture  
+- Authentication & Authorization  
 
-### 🗄 Database
+## 🗄 Database
 - MySQL  
 - Query Optimization  
 - Indexing Strategies  
-- Transaction Handling  
+- Transaction Management  
 
-### ☁️ Cloud & Tools
+## ☁️ Cloud & DevOps
 - AWS  
 - Azure  
 - Git  
 - Docker  
 
-### 🎨 Frontend (Supporting Strength)
+## 🎯 Supporting Skills
 - Vue.js  
 - React  
 
----
-
-# 🏗️ What I Build
-
-✅ Enterprise ERP Platforms  
-✅ Scalable Web Applications  
-✅ Secure Authentication Systems  
-✅ High-performance Database Architectures  
-✅ Production REST APIs  
-
-My work emphasizes **reliability, speed, and scalability.**
+*(Frontend used strategically to support backend systems.)*
 
 ---
 
-# 🔥 Featured Engineering Work
+# 🏗️ Featured Engineering Experience
 
-👉 **Enterprise ERP Platform**  
-Modular system handling HR, inventory, assets, and project workflows with optimized database performance.
+### 🔹 Enterprise ERP Platform
+Architected a modular ERP system supporting HR, inventory, asset management, and project workflows.
 
-👉 **E-Commerce Backend System**  
-Designed business-critical modules including orders, stock management, and accounting integrations.
-
-👉 **Production APIs**  
-Built and deployed RESTful services supporting cross-platform applications.
+**Engineering Highlights:**
+- Designed scalable backend modules  
+- Optimized SQL queries for faster reporting  
+- Built secure role-based access  
+- Improved system reliability  
 
 ---
 
-# 📈 Engineering Focus (2026)
+### 🔹 Production REST APIs
+Developed cross-platform APIs enabling seamless communication between business systems.
 
-Currently deepening expertise in:
+Focused on:
+
+- Speed  
+- Security  
+- Maintainability  
+
+---
+
+### 🔹 E-Commerce Backend
+Engineered business-critical modules including:
+
+✔ Orders  
+✔ Stock management  
+✔ Accounting workflows  
+
+Designed to support real operational demand.
+
+---
+
+# 📈 Current Engineering Focus
+
+Continuously advancing expertise in:
 
 - System Design  
 - Distributed Systems fundamentals  
 - Scalable Infrastructure  
 - Performance Engineering  
 
+Growing from backend developer → **systems-level engineer.**
+
 ---
 
-# 🌍 Open to Opportunities
+# 🌍 Open to Global Opportunities
+
+I am open to working with high-impact engineering teams:
 
 ✅ Remote  
 ✅ Relocation  
-✅ Global Engineering Teams  
+✅ International companies  
 
-I am particularly interested in **backend engineering roles** where I can contribute to building large-scale, impactful systems.
+Particularly interested in backend roles involving **large-scale systems and challenging architecture problems.**
 
 ---
 
 # 🔗 Connect With Me
 
-💼 LinkedIn:  
+💼 LinkedIn  
 👉 https://www.linkedin.com/in/mdalamin-connect/
 
-📧 Email:  
+📧 Email  
 👉 mdalamin.connect@gmail.com
 
 ---
 
-⭐ *“Great software is not just written — it is engineered.”*
-
-
-<!--
-**mdalamin-connect/mdalamin-connect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+⭐ <i>“Engineering is the art of building systems that remain valuable long after they are written.”</i>
+</p>
